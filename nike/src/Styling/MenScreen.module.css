@@ -1,0 +1,88 @@
+.mainContainer{
+  width: 100%;
+  height: auto;
+  background-color: #F9F9F9;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  /* margin-bottom: 30px; */
+}
+
+.sideBar{
+  width: 250px;
+  height: 100%;
+  position: absolute;
+  background-color: #F9F9F9;
+}
+
+
+.sideBar p{
+  margin-left: 20px;
+}
+
+.model, .price, .color{
+  width: 90%;
+  height: auto;
+  background-color:white;
+  margin-left: 20px;
+}
+
+.model h4, .price h4, .color h4{
+  margin-bottom: 0px;
+  margin-left: 5px;
+}
+
+.dropDown, .dropDown1, .dropDown2{
+  width: 100%;
+  height: 30px;
+  border: none;
+}
+
+.cardContainer{
+  margin-left: 280px;
+  height: 100%;
+  background-color:  #F9F9F9;
+}
+
+.card{
+  width: 280px;
+  height: 280px;
+  display: inline-block;
+  background-color: white;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.cardImage{
+  width: 250px;
+  height: 170px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+.cardPrice{
+  margin-top: -10px;
+  margin-left: 20px;
+  font-size: 16px;
+}
+
+.cardTitle{
+  margin-left: 20px;
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: 0px;
+  color: black;
+}
+
+.name{
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 12px;
+  color: #818181;
+  margin-bottom: 4px;
+}
+
+.name:hover{
+  text-decoration: none;
+}
+

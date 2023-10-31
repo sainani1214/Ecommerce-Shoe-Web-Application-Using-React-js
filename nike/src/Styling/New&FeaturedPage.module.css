@@ -1,0 +1,98 @@
+
+.imageBlock{
+  width: 100%;
+  height: auto;
+}
+
+.image1{
+  width: 100%;
+  height: auto;
+}
+
+
+.nikeHeading{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: -1px; 
+  margin-top: 0px ;
+  margin-bottom: 0px;  
+}
+
+.para{
+  text-align: center;
+  margin-top: 6px;
+}
+
+.para:hover{
+  text-decoration: none;
+}
+
+.headingContainer button{
+  width: 80px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  font-weight: 500;
+  border-radius: 30px;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8x;
+  padding-right: 8px;
+  margin-left: 48%;
+  margin-top: 6px;
+  cursor: pointer;
+}
+
+.videoContainer{
+  margin: 0px 60px;
+}
+
+.videoContainer p{
+  margin-top: 40px;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.videoContainer video{
+  width: 100%;
+  height: auto;
+  outline: none;
+}
+
+.text{
+  margin-top: 10px;
+}
+
+.text h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: -4px; 
+  margin-top: 0px ;
+  margin-bottom: 0px;  
+}
+
+.text p{
+  text-align: center;
+  margin: 0px;
+  text-decoration: none;
+}
+
+.text button{
+  width: 164px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 30px;
+  margin-left: 36%;
+  margin-top: 20px;
+  padding: 5px 10px;
+  cursor: pointer;
+}

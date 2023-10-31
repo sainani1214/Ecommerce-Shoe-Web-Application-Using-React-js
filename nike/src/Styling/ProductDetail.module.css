@@ -1,0 +1,99 @@
+.mainContainer{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.leftContainer{
+  width: 50%;
+  height: auto;
+}
+
+.leftContainer img{
+  width: 550px;
+  height: 400px;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+.rightContainer{
+  width: 50%;
+  height: auto;
+}
+
+.rightContainer h2{
+  margin-top: 2%;
+  margin-left: 10%;
+}
+
+.name{
+  font-size: 14px;
+  color: #818181;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.about{
+  font-size: 14px;
+  margin-left: 10%;
+
+}
+
+.para{
+  font-size: 14px;
+  margin-left: 10%;
+}
+
+.priceContainer{
+  width: 160px;
+  height: 46px;
+  background-color: #D91A21;
+  color: white;
+  margin-left: 10%;
+  padding-left: 70px;
+  line-height: 46px;
+  cursor: pointer;
+}
+
+.price{
+  margin-left: 10%;
+}
+
+.name:hover{
+  text-decoration: none;
+}
+
+.about:hover{
+  text-decoration: none;
+}
+
+.para:hover{
+  text-decoration: none;
+}
+
+.cartButton{
+  margin-left: 10%;
+  margin-top: 2%;
+  width: 232px;
+  height: 46px;
+  background-color: black;
+  color: white;
+  border: none;
+  font-weight: 600;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+.buyButton{
+  margin-left: 2%;
+  margin-top: 2%;
+  width: 232px;
+  height: 46px;
+  background-color: black;
+  color: white;
+  border: none;
+  font-weight: 600;
+  border-radius: 40px;
+  cursor: pointer;
+}

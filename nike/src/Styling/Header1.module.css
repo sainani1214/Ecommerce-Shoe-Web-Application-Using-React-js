@@ -1,0 +1,30 @@
+.part1{
+  width: 100%;
+  height: 30px;
+  background-color: #F5F5F5;
+  display: flex;
+  justify-content: space-between;  
+}
+
+.part1 h6{
+  color: black;
+}
+
+.logo{
+  width:20px;
+  margin-left: 38px;
+  padding-top: 4px;
+}
+
+.part2{
+  display:flex;
+  justify-content: space-between;
+  margin-top: -18px;
+  gap: 30px;
+   
+}
+
+.part2 h6:hover{
+  color: #A2A4A2;
+  cursor: pointer;
+}

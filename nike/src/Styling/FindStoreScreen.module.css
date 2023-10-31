@@ -1,0 +1,25 @@
+.firstDiv{
+  margin-left: 2%;
+}
+
+.firstDiv p{
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.firstDiv p:hover{
+  text-decoration: none;
+}
+
+.secondDiv{
+  margin-left: 2%;
+}
+
+.secondDiv h4{
+  margin-bottom: 2px;
+}
+
+span{
+  margin-top: 0px;
+  padding-top: 0px;
+}

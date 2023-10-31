@@ -1,0 +1,58 @@
+.mainContainer{
+  width: 100%;
+  height: 360px;
+  background-color: black;
+}
+
+.mainDiv h5{
+  color: white;
+  margin-bottom: 10px;
+}
+
+.mainDiv p{
+  color: #757575;
+  font-size: 14px;
+}
+
+.mainDiv p:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.mainDiv{
+  width: 50%;
+  height: 85%;
+  margin-left: 4%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.firstDiv, .secondDiv, .thirdDiv{
+  padding-top: 8%;
+}
+
+.firstDiv h6{
+  margin-bottom: 16px;
+}
+
+.bottomDiv p{
+  color: #757575;
+}
+
+.bottomDiv{
+  width: 92%;
+  height: 15%;
+  margin: 0px 4%;
+  display: flex;
+  justify-content: space-between;
+  line-height: 40px;
+}
+
+.bottomRightDiv{
+  display: flex;
+  gap: 30px;
+}  
+
+.bottomDiv p:hover{
+  text-decoration: none;
+}
